@@ -1,3 +1,3 @@
-# Discord BotTag and Dialog options
+# Discord recolored
 
-An simple beautiful theme
+At least this color looks good here.
