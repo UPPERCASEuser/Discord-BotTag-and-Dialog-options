@@ -1,3 +1,3 @@
 # Discord recolored
 
-At least this color looks good here.
+The github of a theme inspired on dream-frame but the difference is focused more on details than dream-frame
