@@ -1,3 +1,5 @@
 # Discord recolored
 
-The github of a theme inspired on dream-frame but the difference is focused more on details than dream-frame
+A theme inspired on dream-frame but the difference is focused more on details
+
+Preview: ![](https://cdn.discordapp.com/attachments/539180316447997974/591718045102374935/unknown.png)
